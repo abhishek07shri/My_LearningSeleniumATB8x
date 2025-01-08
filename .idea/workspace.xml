@@ -4,17 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a546051-0b09-4429-ab5e-37b164ec4825" name="Changes" comment="" />
+    <list default="true" id="7a546051-0b09-4429-ab5e-37b164ec4825" name="Changes" comment="18th">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/CromeDriver_Invoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/CromeDriver_Invoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/EdgeDriver_invoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/EdgeDriver_invoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/SafariDriver_invoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/SafariDriver_invoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/Selenium08.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abhishek07shri/My_LearningSeleniumATB8x.git",
+    "accountId": "7ea79e48-5da8-49c0-9d03-80b0cd9b615f"
+  }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/CromeDriver_Invoke.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2r3Z5T7j8JlcRKEE2FaE9Q4M3x2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +58,116 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.CromeDriver_Invoke.executor": "Run",
+    "TestNG.EdgeDriver_invoke.executor": "Debug",
+    "TestNG.EdgeDriver_invoke.test_Selenium_Edge.executor": "Run",
+    "TestNG.SafariDriver_invoke.test_Selenium_Safari.executor": "Run",
+    "TestNG.Selenium01.executor": "Run",
+    "TestNG.Selenium08.testMethod01.executor": "Run",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.Selenium08.testMethod01">
+    <configuration name="EdgeDriver_invoke" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex01_18122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex01_18122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex01_18122024.EdgeDriver_invoke" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeDriver_invoke.test_Selenium_Edge" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex01_18122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex01_18122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex01_18122024.EdgeDriver_invoke" />
+      <option name="METHOD_NAME" value="test_Selenium_Edge" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SafariDriver_invoke.test_Selenium_Safari" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex01_18122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex01_18122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex01_18122024.SafariDriver_invoke" />
+      <option name="METHOD_NAME" value="test_Selenium_Safari" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex01_18122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex01_18122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex01_18122024.Selenium01" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium08.testMethod01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_LearningSeleniumATB8x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex01_18122024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex01_18122024" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex01_18122024.Selenium08" />
+      <option name="METHOD_NAME" value="testMethod01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Selenium08.testMethod01" />
+        <item itemvalue="TestNG.EdgeDriver_invoke.test_Selenium_Edge" />
+        <item itemvalue="TestNG.EdgeDriver_invoke" />
+        <item itemvalue="TestNG.SafariDriver_invoke.test_Selenium_Safari" />
+        <item itemvalue="TestNG.Selenium01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +178,25 @@
       <updated>1735789538431</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="18th" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/CromeDriver_Invoke.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex01_18122024/EdgeDriver_invoke.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
